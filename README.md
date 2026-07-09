@@ -36,5 +36,6 @@ This project applies the Google Data Analytics methodology to investigate the ca
 
 ## 📊 Visualizations Portfolio
 The following insights were plotted and saved during the pipeline execution:
-1. messi_efficiency_trend.png: A dual-line chart tracking the divergence of Actual vs. Expected output over a 10-year timeline.
-2. europe_top_10_2018_benchmark.png: An isolated horizontal bar chart highlighting Messi's dominance over the 2018 European elite.
+![Messi Efficiency Trend](figures/messi_efficiency_trend.png)
+![Europe Top 10 2018 Benchmark](figures/europe_top_10_2018_benchmark.png)
+
